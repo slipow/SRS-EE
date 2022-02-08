@@ -38,6 +38,5 @@ def is_date(line):
 with open('SRS-EE/Culture.txt', 'r', encoding="utf-8") as file:
 
   for line in file:
-    if is_date(line):
-      print(line)
-
+    if not is_date(line):
+      
