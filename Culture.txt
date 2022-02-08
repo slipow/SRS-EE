@@ -1,0 +1,447 @@
+# These were the vocab criteria choice:
+# 1 - TI area context usage (job descriptions, TI blogs, etc)
+# 2 - Words already known but not in some forms. These forms 
+# are not necessarily being used in the example found and 
+# posted here.
+
+# Week 1
+#month/day/year
+#jan/31/2022
+01/31/2022
+role
+engagements
+Job Description Summary: In this role, you will work closely with a software engineer to understand requirements, develop technical solutions, and set expectations for complex software projects. You will act as an individual contributor on these engagements, contributing to software development of software applications, and integration into enterprise systems.
+throughout
+assigned
+budget
+Engage throughout the full lifecycle of assigned projects, participating on architecture, design, and functionality to keep programs on track in terms of budget, time, and customer expectations.
+leverage
+Effectively leverage product capability, driving standardization, limiting customization, and maximizing reuse of content developed for previous solutions.
+peers
+Effectively communicate both verbally and in writing with peers and team members as an inclusive team member.
+diagnose
+actionable
+Demonstrates ability to diagnose and solve basic to intermediate issues; Able to isolate moderately complex scenarios down to actionable items within designated job function.
+endeavors
+overwhelming
+odds
+setbacks
+Persists on completion of endeavors, especially in the face of overwhelming odds and setbacks; Pushes self for individual results and others through team spirit.
+thoroughly
+Seeks to understand problems thoroughly before implementing solutions; Asks for clarity when ambiguities are present; Implements clean, concise solutions that address the requirements at hand.
+driven
+At Amazon, we are working to be the most customer-centric company on earth. To get there, we need talented, bright, and driven people. 
+evolving
+thrive
+ownership
+Amazon is continually evolving and is a place where motivated workers thrive and where workers ownership leads to meaningful results.
+assumption
+Ability to use hard data to back up assumption.
+lasting
+Our goal is to impact lasting change through our actions.
+committed
+ADP is committed to equal employment opportunities regardless of any protected characteristic, including race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, or protected veteran status and will not discriminate against anyone on the basis of a disability. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance.
+
+#############################################################################
+
+#month/day/year
+#feb/02/2022
+02/01/2022
+uphold
+ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.
+brands
+seamless
+hubs
+Inspired by the connectivity and flexibility of technology APIs, Media.Monks’ single-P&L model offers brands seamless access to a nearly 6,000-strong team of digital talent organized across 57 talent hubs in 33 countries.
+stakes
+We deliver table stakes quickly, creating cost efficiencies from day one to push up the creative effectiveness of our work with every cycle.
+outcome
+upsell
+The Trainee will act as the hub for entire contract management, working on maintaining existing clients ensuring the best outcome for all stakeholders, which may include upsell evaluations; this role requires high analytical and planning skills, as well as unmatching communication abilities.
+proposal
+Negotiation of proposals.
+aptitude
+Leadership aptitude.
+above
+Above market salary.
+allowance
+Meal allowance.
+strive
+insightful
+We strive for every interaction to be driven by our CORE values: Insightful Expertise, Integrity is Everything, Service Excellence, Inspiring Innovation, Each Person Counts, Results-Driven, & Social Responsibility.
+duty
+Participate in team meetings and conference calls possible. Perform the duties established by the manager, provided they are with the rules of Stage Policy Mandatory participation in all training of the Internship Program.
+ongoing
+Ongoing undergraduate course work
+
+#############################################################################
+
+#month/day/year
+#feb/02/2022
+02/02/2022
+behalf
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers.
+overlap
+Many of our technologies overlap, and you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalize for customers.
+conceive
+Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.
+offer
+caring
+We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from. Apply now!
+engages
+This is done in order to foster a culture of innovation that inspires and engages our employees, customers and ecosystem and positions the SAP Labs as a thought leader in the market.
+workstreams
+Keeping contact with DTO leaders and teams to promote its program and workstreams.
+comms
+vendors
+deliverables
+Manage and orchestrate comms vendors and suppliers ensuring quality and speed on deliverables.
+plus
+Spanish knowledge will be considered a plus.
+advisor
+broader
+As you progress in the Consulting career, you will be seen as our customer’s trusted advisor, helping them on understanding their needs and then working with the broader VMware CXS’s teams, design the right solution that will make our customers achieve their outcomes. If you are looking to grow in the exciting career of technology Consulting, this is the best place to start.
+
+#############################################################################
+
+#month/day/year
+#feb/03/2022
+02/03/2022
+upon
+acquired
+Our data-driven services are built upon the deep AI expertise we’ve acquired with our 1000+ client base around the globe.
+assets
+finest
+Thanks to a unique mix of company assets: State of the art data technologies, lean AI agile methodologies for fast delivery, and cohesive teams of the finest business consultants, data analysts, data scientists, data engineers, and digital experts, all dedicated to bringing extra value to every client.
+acumen
+aid
+mitigate
+The Finance team’s goal is to be a trusted and collaborative partner to all the businesses and functional teams that we work with, bringing business acumen, financial expertise and insights to aid decision-making and deliver value to our stakeholders. We strive to generate value through providing specialist advice and making recommendations to optimize decision making, delivering transparent processes and implementing governance and controls to mitigate risk.
+fulfillment
+billing
+As a Customer Service Intern supporting LATAM market, you will be responsible for supporting the CS processes with Sales Orders input and all the fulfillment, billing and shipping documentation process, in addition this role will be responsible by maintaining contact with the ResMed Distributors and Sales Representatives Network through communication via email and telephone in a consistent manner.
+over
+Initiate and receive calls / messages from ResMed Distributors over the phone or email to report the status of the Sales Orders;
+escalate
+Assist key stakeholders with any problems and escalate appropriately when the problem needs to be addressed by ResMed;
+mandatory
+Must be able to write e-mails in English. Speaking and writing in Spanish will be a plus, but not mandatory.
+breakthroughs
+Our company culture is focused on helping our employees enable innovation by building breakthroughs together.
+entrepreneurs
+fingertips
+Gain visibility: with SAP Internship Experience Program in your title, you’ll have a global network of SAP leaders, entrepreneurs and career development opportunities at your fingertips.
+guidelines
+Documents and logs all contacts and actions into JIRA per specified guidelines.
+safeguarding
+Our customers are responding faster to opportunities with modern data and apps hosted across hybrid clouds, and safeguarding customer trust with a defense-in-depth approach to cybersecurity.
+issue
+Orchestration of experts for fast issue resolution.
+deflection
+Call deflection (create and share knowledge, etc.).
+Can work under pressure.
+Experience or eagerness to learn technical skills e.g., root cause analysis, debug and so on.
+
+#############################################################################
+
+#month/day/year
+#feb/04/2022
+02/04/2022
+trailblazers
+fresh
+VMware recognizes that today’s students are tomorrow’s trailblazers, and we value the opportunity to benefit from your fresh perspective.
+Dare
+Dare to explore at http://careers.vmware.com.
+ingenuity
+Our world is all about technology, and that world is growing because the imagination, ingenuity and talent of our teams knows no bounds.
+attendance
+Update CRM with all records of attendance to partners and distributors.
+regarding
+Update management reports and documents regarding partners and distributors.
+Pursuing
+Pursuing Bachelor’s degree in Business Management, Engineering or related courses, with graduation date expected in 2 years after hiring date;
+Willingness
+Willingness to contribute to projects is a plus;
+insights
+You will join our Data & Consulting which helps clients transform and improve their marketing strategy by applying advanced analytics to generate value-creating insights from big data and artificial intelligence.
+consumers
+You’ll take part in every step of the project from initial client facing to the final delivery, you will help us make smarter decisions to deliver even better products to our consumers.
+disaggregate
+Intellectual curiosity, along with on excellent problem-solving skill, including the ability to disaggregate issues, identify root causes and recommend solutions.
+bespoke
+A practical and analytical mind-set, you will be passionate about the creation of bespoke solutions for our clients
+dent
+Entrepreneurship: you will be joining a team of driven entrepreneurs. We won’t give up until we make a huge dent in this industry!
+subtle
+Afiniti is the world’s leading applied artificial intelligence and advanced analytics provider. Afiniti Enterprise Behavioral Pairing™ uses artificial intelligence to identify subtle and valuable patterns of human interaction in order to pair individuals on the basis of behavior, leading to more successful interactions and measurable increases in enterprise profitability. Afiniti operates throughout the world, and has measurably driven billions of dollars in incremental value for our clients.
+acceptance
+tier
+The deployment involves technical discovery, integration design, user acceptance testing, and tier-1/2 support.
+phases
+Follow project deployment phases since inception till closure and collect information about integration.
+inquiries
+Responds to customer technical inquiries concerning Afiniti.
+achieved
+Follows customer issues through to completion to ensure resolution and customer satisfaction have been achieved.
+
+#############################################################################
+# 05/02/22 - Saturday
+# 06/02/22 - Sunday
+#############################################################################
+
+#month/day/year
+#feb/07/2022
+02/07/2022
+# Elixir/Erlang: Tail Call Optimization is not enough
+widespread
+around
+In this article, we’ll be talking about a widespread concept of Functional Programming called Tail Call Recursion (or Tail Call Optimization or just Tail Call). If you have been around FP for some time, you might have already come across this concept, but if not or you want to know more, climb aboard and let’s get into it.
+stack
+heap
+Right after that, studying another language (Elixir) the concept of tail-recursive functions came up again, but this time with a different perspective. For this case, tail-calls could be used not just to save stack, but also to save heap memory as well, and beyond that: they should be faster than a recursive-body function. After running some tests I got some quite unexpected results.
+misconceptions
+The misconceptions about tail-recursive functions
+ran
+To get more precise results I used a Benchee and ran these two functions with different inputs. The results can be found at https://gist.github.com/geeksilva97/909ebb54029033dea0afbd0206e853ea. As you can see, there’s not much difference between them. Both reach memory peaks of ~6GB when calculating the factorial of 150.000, for instance.
+involving
+unless
+mutually
+I started by reading the The Seven Myths of Erlang Performance again and I was led to this great blog post about tail-recursion specifically. Starting from these two links I found a discussion involving Robert Virding (co-creator of Erlang) where he makes it very clear when he says: …the main case where is TCO is critical is in process top-loops. These functions never return (unless the process dies) so they will build up a stack never to release it. Here you have to get it right. There are no alternatives. The same applies if your top-loop is composed of a set of mutually calling functions. There there are no alternatives. Sorry for pushing this again, and again, but it is critical. In other cases my way of choosing is the one that gives me the most intelligible code. And that varies depending on what the function is supposed to do and how I choose to do it.
+quote
+conclude
+might
+I agree with Armstrong’s quote mentioned earlier. So, let’s back to the title of this post. Based on these rich discussions we can conclude that tail-recursion isn’t enough. Sometimes tail functions might perform better, sometimes they won’t.
+cons
+Sometimes it will not be a choice, but when it is, you could list the pros and cons of writing a function in a specific way.
+goal
+measured
+[…] I agree that you should know what it gives you and why and when it is important. There are many cases where you end up with TCO as a result of a solution you chose for other reasons. For example often when you carry values around in accumulators you end up with a tail-recursive function even if this was not the goal. And the efficiency always needs to be measured. Saving stack can however save you Garbage Collection even if you may not save memory.
+blindly
+The bottom line of the article is: Don’t blindly believe the information you find in books, blog posts, or anything like that. Be critical and do your experiments. Try as many cases as you can (especially if you’re a beginner) and if you get unexpected results, try to find out why. If you can’t figure out why find out someone who can.
+# Why You Should Care About Resilience
+absorb
+abnormal
+But the resilience of these services, or the ability to absorb the impacts of abnormal problems, is an issue if they are not prepared, sometimes causing big problems when one of the services is down or passing for internal problems.
+flow
+fetch
+Imagine your team maintains an API that has an extremely important flow that needs resources from other services, so it does a request to fetch it. But what happens if the service returns a 500 status with an error?
+quite
+overpass
+retry
+Connectivity problems with other services are quite common. For example, a service can refuse connectivity when a number overpasses a certain amount, so it returns a temporary error while it handles all processing and connections. The retry pattern is something like: “Oh, it’s not working now, but I can try later, maybe it works”.
+
+#############################################################################
+
+#month/day/year
+#feb/08/2022
+02/08/2022
+raise
+won't
+Cancel: If the error indicates it’s not temporary, just raise an exception. Try again probably won’t work.
+reaches
+Try again with timeout: If you already tried again once and the error still seems to be temporary, add a timeout and try again. These timeouts can be incremental or even exponential. It can have a max number of tries, and when it reaches, raise an exception.
+appearing
+The circuit breaker pattern can be used when you know the error is not temporary, so it stops all the requests for the problematic endpoint, only returning when the problem is appearing to be gone. This can prevent bigger problems with the service.
+half-opened
+Closed: The request is made, if it returns an error, the circuit breaker increments a counter. After a certain amount of errors, the state is changed to open and starts a timer. When the timer expires, the state is changed for half-opened. This timer exists to give time for the API team to fix the problem.
+one
+Your API has multiple external data resources from different services to handle, but your infrastructure naturally is shared by all your connections. The bulkhead pattern avoids the problem when one of the services is not working and consumes all the resources of your connection poll, by isolating and dividing the resources for each one of them. So when one of the services is down, it doesn’t affect the other ones.
+timeout
+fresh
+Your API needs external data that is almost immutable, in other words, if you access the service twice, the data will be the same. Do you need to call it twice? The cache pattern can save the request data in a temporary data store, and now you can retrieve the data from the cache. This will save your infrastructure resources. But what if the API changes the data? You can set a timeout to expire the cache, and when it does, you can call the service, receiving fresh new data.
+Immutable
+Equally
+Strings and Symbols are implemented in different ways, but, in general, symbols are immutable, so checking if two of them are equal is a really fast operation that makes them good to be used as identifiers in your application. In addition, they’re more efficient, since two symbols that are named equally will always point to the same object in the memory while using strings would create an entirely new object.
+Widely
+Symbols are widely used as keys in Hashes (basically, the Dictionaries for python or Objects in javascript).
+Gain
+Readability
+Downside
+Although, just using symbols won’t make your code run much faster, but every speed gain is welcome, since it doesn’t change the code readability nor has any other downside.
+Evaluated
+This is possible because ruby uses an expression-evaluation system, in which every expression is evaluated and the last one that runs has its value returned.
+Inheritance
+Ideed
+First of all, every object derives from the Object class through the inheritance chain. This means that there are some basic methods that every object responds to (some examples are class, object_id, nil?). To give you an idea of the implications this has, even classes and modules are indeed, objects.
+Outside
+Note that in the previous example, we used an outside method (puts) inside the class body. That’s because, in Ruby, a class or module body is just like any other block, you can use any statement inside (like if and for).
+Themselves
+Modules are blocks that store methods and constants (other modules or classes). This definition may sound familiar, but different from classes, modules can’t create instances of themselves (under the hood, every class is a module, only the opposite is not true). In general, modules have 2 main uses: acting like namespaces and like mixins.
+instantiate
+You can use classes as mixins too, but, using modules will ensure that no one will instantiate it.
+
+#############################################################################
+
+#month/day/year
+#feb/09/2022
+02/09/2022
+Mainly
+“With great powers, comes great responsibilities”. Be careful when you change modules, classes, and methods that are working, just do it if it’s really necessary and you know how everything works, mainly the built-in ones.
+Beyond
+Lastly, like other topics, this is not an exclusive ruby feature, but the way that metaprogramming is used is amazing. Metaprogramming means (beyond other things) dynamically changing, in runtime, the behavior of an object, like adding a method or redefining a constant (yes, this is possible) and it’s widely used in a lot of contexts, especially in frameworks like ActiveRecord (RubyOnRails).
+Which
+Its simpler syntax makes it friendly for beginners (maybe even more than python), but it doesn’t make it a simplistic language. On the contrary, it enables really heavy and complex code to be written in such a way that everyone can understand it. Some core features, like OOP, mixins, metaprogramming, and open classes, make the language even more flexible and adaptable, which is amazing.
+
+# Medium article on Telegram about which programming languages to learn and which not to learn
+assertion
+slim
+Some of you might now agree with this assertion, but look you have a very slim chances (if you are a fresher) to directly land your first Job if you just know Go, but not Java; Kotlin, but not Java; Swift, but not Objective-C; Dart, but zero experience with any native app development language.
+Ruby’s Cool Features for Beginners
+
+# another Medium article
+narrow
+First, figure out what are you really interested in (web development, AI/ML, mobile and/or desktop apps, infrastructure, automation, cybersecurity, game dev, etc.). Then narrow down to a specific niche, (e.g. iOS development, or in the web dev world it could be “building websites that convert for small to medium businesses”.)
+
+AWS SNS – What You Should Know About it + a NodeJS Implementation
+
+Arrived
+Hi there! In the past few weeks I’ve been working on the backend of a mobile chat application, or, what I like to call WhatsApp 2. The customer requested a way to send a push notification to the users when new messages arrived in a specific chat. One way to achieve this is by using the AWS Simple Notification Service (SNS).
+Aware
+In this article, I’ll explain how to use SNS with NodeJS and discuss some things you should be aware of, so let’s get started!
+Itself
+If you know a little bit about push notifications services, you might be wondering how exactly can SNS send them? Well, SNS by itself is not the one responsible for it. For Android devices, I’ve been using the Firebase Cloud Messaging (FCM) and for IOS, the Apple Push Notification Service (APNs)
+Subscribe
+So, what is the point of using SNS? With Amazon SNS, you’ll be able to subscribe different devices to endpoints using the device token provided by each notification service. This way you can use SNS as an interface for each notification service, sending direct messages through them. You can also subscribe endpoints to topics, allowing you to send notifications to multiple devices at once.
+Straightforward
+Using SNS with NodeJS is very straightforward, you’ll only need the aws-skd package and you are ready to go!
+Having
+By having the SDK in hands, initializing the SNS client is very simple.
+Earlier
+As I mentioned earlier, we’ll need to register our endpoints using the device token.
+through
+These “ARNs” are URI‘s that SNS uses to keep track of Platform Applications, Endpoints, and Topics. You can see the values through the dashboard and they should look like this: arn:aws:sns:us-east-0:000000000000:app/GCM/MyApplication
+sent
+For sending messages to a specific Endpoint, you’ll need to provide the EndpointArn and the Message object, that you’ll be sent as a string. Make sure that the message object follows your notification service payload pattern, or else it will not work at all. 
+supposing
+deactivated
+So far, you’ve got everything right, but the notifications may not be showing up! The main cause of this problem, supposing that your implementation is correct, could be your endpoint being deactivated by SNS. This happens when your notification provider responds with your device token no longer being valid, or if it was unable to deliver notifications multiple times.
+recreate
+An easy way to keep the Endpoint fresh and up to date is to recreate the endpoint on the sign-in process and deleting the current one if there’s any. If you do so, make sure to also remove the Endpoint from a Topic, in case it’s has been subscribed to one. You can also force the Endpoint to be re-enabled before trying to send a direct message to it.
+despite
+struggled
+render
+edge
+Despite being very easy to use, I’ve struggled a lot while trying to understand and use SNS, it’s really easy to step on an edge case or face some issue that hasn’t been documented. The main problem of dealing with SNS is that it depends on a lot of other services and debugging it might not be so straightforward. I hope you found this article useful and that it serves you as a good introduction of how to use SNS with NodeJS, as well as making your experience developing with it a lot easier than mine!
+
+#############################################################################
+
+#month/day/year
+#feb/10/2022
+02/10/2022
+
+# AWS Cognito – An Implementation Guide for your NodeJS Application
+solves
+In this article, we aim to give you an overview of what AWS Cognito solves and how to use it as your app’s authentication provider, as well as explain how to use the concepts of Id, Access, and Refresh Tokens. We will also explain a problem we worked on and take a look at the library used (amazon-cognito-identity-js).
+Besides
+enforcing
+Cognito is a user management service by Amazon Web Services [1]. It is a very interesting option for those who wish to quickly focus on coding your app instead of having to set up the boring sign-up/authentication flow and all that comes with user management, like password recovery. Besides it, Cognito is free to up to 50 000 active users, which is great for starting businesses. It works by grouping users the way your business need, giving them roles, enforcing minimum password strength, two-factor authentication (2FA), and finally returning three tokens (two of them are the well-known JWT). Later, it provides you a user database as well as tools to manage them.
+hire
+Despite the default password recovery mechanism being e-mail, if you want to use password recovery by SMS, you’ll just have to hire the AWS Simple Notification Service (SNS), but that’s a topic to another article.
+encounter
+few
+friendlier
+The first approach was using the SDK itself, but we find it to not be very clear for a first encounter, so we thought that there could be a higher-level solution that could abstract a few flows and present the service in a friendlier way.
+went
+Looking at NPM, we went for the most downloaded package since it covered almost all we wanted: amazon-cognito-identity-js [2]. The problem was it was designed for an approach that would require the app to know Cognito and request from him directly, holding the auth tokens in its memory, and having the AWS credentials inside its environment (as exemplified in the image below).
+amenities
+forcing
+throw
+ourselves
+The package (or library) we chose implements lots of amenities shown in Cognito docs, like handling “first access” (they have a special rule for this case, forcing you to change your admin-given or automatically-generated password, handling flows that throw data from here to there). This is why we decided to use this ready-to-go solution instead of implementing it all for ourselves directly from the AWS-SDK; save time and go to an easier implementation.
+which
+decoded
+bearer
+Access Token: A JWT token which when decoded will provide information about its bearer access. Information like groups it belongs to.
+bear
+Ideally, both Id and Access will be valid just for a few minutes to a couple of hours. If one of them leaks, the bearer can authenticate until their validity. They cannot be revoked. All you can do is make a list of leaked tokens and check each call if they bear a listed token.
+track
+These “ARNs” are URI‘s that SNS uses to keep track of Platform Applications, Endpoints, and Topics.
+
+###########################################################
+
+#month/day/year
+#feb/11/2022
+02/11/2022
+
+# Let’s Learn GraphQL + Apollo Server and Client
+consults
+tooling
+First of all, we need to know what GraphQL is: GraphQL is a typed query language and data runtime that consults data on APIs developed by Facebook. It is strongly typed to enable excellent tooling for development.
+furthermore
+GraphQL has some important differences betwen other strategies, like REST. It uses the same route for all resources, while in REST, for instance, you have multiple routes for resource URLs. Furthermore, in REST, the shape and size of the data are determined by the server, while in GraphQL the client has the power to request any data they want.
+retrieve
+traverses
+resolvers
+The query in GraphQL is dynamic, instead of having its result shape hardcoded as in REST API. This alllows something called No “overfetching”, that is when there’s no extra data (that won’t be used) in the response. While GraphQL allows the client to retrieve data fit to a specific use case, REST APIs return predefined data. GraphQL is called “Graph” because it traverses the query graph sent by the client and proceeds to the resolvers to go ahead and fetch all of the relational data requested by the client
+intend
+The Schema Definition Language consists of an object representation. When we work with GraphQL to make queries, it needs to know what properties/attributes are available. For this reason, we need to define one or more schemas to provide a sort of a map of the data we intend to obtain.
+alongside
+One of the main ideas behind GraphQL is to work alongside any language or framework. Following this premise, they created their own language for schema declaration, SDL.
+solely
+A GraphQL query operation with only the query result for teams. In this case, teams is derived solely from the schema: <code>
+however
+The three queries are functionally equivalent. In GraphQL, the query and name keywords are optional. However, it’s recommended to use both of them to distinguish the operation type and make it easier for your teammates to know what your query is doing.
+Asks
+When we ask for data, we get a response back in a similar shape as the query, most commonly in JSON format. That is called the GraphQL query result.
+actual
+receives
+Mutations are responsible for making actual changes to server-side data, running operations like create, update and delete. When the back-end receives the mutation commands, it uses them to perform the desired operation.
+as
+Mutations follow the same structure as queries, but they require using the mutation keyword, the input parameters, and a returning value as the result of the operation to the client.
+Nowadays
+Nowadays, real-time features are in demand for increased interactivity on web applications. A good example is YouTube; when a new video from some channel subscription is posted, reloading the page to see the notification count bump is not needed at all.
+usually
+So, subscriptions on GraphQL provide a way to subscribe to some back-end operation (like a mutation) and receive data from it. This corresponding operation uses the publish & subscribe (pubsub) message pattern, which is usually implemented with the WebSocket Protocol.
+aims
+later
+Apollo Server aims to provide an open-source GraphQL server compatible with any client that uses GraphQL for data queries, including Apollo Client, which will be covered later in this post.
+standalone
+add-on
+gateway
+You can use Apollo Server as: A standalone GraphQL server (also in a serverless environment); An add-on to your application’s existing Node.js middleware (such as Express or Fastify); A gateway for a federated data graph — consists of consuming data from several services and providing it to the client through a gateway.
+
+###########################################################
+
+feb/12/2022 - Saturday
+feb/13/2022 - Sunday
+
+###########################################################
+
+#month/day/year
+#feb/14/2022
+02/14/2022
+
+end-user
+Apollo Client is a library that provides state management for JavaScript, allowing you to manage local and remote data with GraphQL. It can use it to fetch, store and modify application data while automatically updating the end-user interface.
+cost-effective
+Apollo Client helps you structure your code in a cost-effective, predictable, and declarative way through modern development practices. The core @apollo/client library provides integration with React (which is the focus of this article).
+hook
+adoptable
+Main features: Excellent developer experience: Enjoy helpful tooling for TypeScript, Chrome / Firefox devtools, and VS Code; Designed for modern React: Take advantage of the latest React features, such as hooks; Incrementally adoptable: Drop Apollo into any JavaScript app and incorporate it feature by feature; Universally compatible: Use any build setup and any GraphQL API; Community-driven: Share knowledge with thousands of developers in the GraphQL community.
+against
+The main dependencies used are: apollo-server: The core library for Apollo Server itself, which helps you define the shape of your data and how to fetch it; graphql: The library used to build a GraphQL schema and execute queries against it.
+root
+The resolvers you will see below are responsible for using the schema definitions and providing them (queries and mutations) at the root of the Graph structure.
+relies
+To me, the most interesting item to explain is Subscription because working with real-time data is really cool. So, the workflow is simple: teamAdded is a subscription that can be subscribed to (of course) by any client through a topic (TOPICS.TEAM_ADD). After subscribed, the client can receive the contents of the new team that was added to the database in real-time. To do that, the graphql lib relies on the WebSocket Protocol to establish real-time communication between client and server.
+establish
+Let’s focus on the infra/api and services folders, which are at the core of the SPA. The Infra/api folder contains the configuration necessary to establish the connection between the SPA and the back-end GraphQL API.
+parent
+Apollo Client also provides a caching feature to avoid unnecessary requests to the same data through the cache property, which is an instance of InMemoryCache. To be able to consume and change the data, the client needs to use ApolloProvider on the parent component, which in our SPA is App.tsx — which makes it possible to use GraphQL operations like mutations, queries, and subscriptions, implemented as services.
+Altough
+Altough GraphQL is really awesome, it is no silver bullet. Bellow, we have listed some pros and cons of using GraphQL so you can better undestand it’s applications and limitations.
+whether
+top-level
+stacktrace
+lead
+cons: HTTP Status code: GraphQL queries always return 200 OK, regardless of whether the query was successful or not. If your query is not successful, your JSON response will have a top-level error key with the associated error messages and the stacktrace. In some cases, this makes error handling much more complex and may lead to additional complexity for operations such as monitoring;
+overload
+devising
+Database overload: In some cases, one query can execute many calls to your database that may overload your server. So, balancing and devising efficient queries can save your infra;
+relying
+Cache support: You will need to setup your own caching strategy, which means relying on another library like Apollo.
+either
+whether
+Conclusions: A GraphQL operation can either be a query or a mutation: We learned that the query and name keywords for a GraphQL operation are optional, but it’s recommended to use both to keep your queries readable and understandable; The best way to determine whether you want to write a query or a mutation is to ask yourself if you’re fetching data (query) or modifying the state in the server (mutation).
+
+###### 18
