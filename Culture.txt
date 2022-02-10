@@ -7,6 +7,7 @@
 # Week 1
 #month/day/year
 #jan/31/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
 01/31/2022
 role
 engagements
@@ -46,6 +47,7 @@ ADP is committed to equal employment opportunities regardless of any protected c
 
 #month/day/year
 #feb/02/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
 02/01/2022
 uphold
 ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP's culture and our full set of values.
@@ -262,7 +264,7 @@ Evaluated
 This is possible because ruby uses an expression-evaluation system, in which every expression is evaluated and the last one that runs has its value returned.
 Inheritance
 Ideed
-First of all, every object derives from the Object class through the inheritance chain. This means that there are some basic methods that every object responds to (some examples are class, object_id, nil?). To give you an idea of the implications this has, even classes and modules are indeed, objects.
+First of all, every object derives from the Object class through the inheritance chain. This means that there are some basic methods that every object responds to (some examples are class, object_id, nil?). To give you an idea of the implications this has, even classes and modules are indeed, objects.
 Outside
 Note that in the previous example, we used an outside method (puts) inside the class body. That's because, in Ruby, a class or module body is just like any other block, you can use any statement inside (like if and for).
 Themselves
@@ -327,6 +329,7 @@ Despite being very easy to use, I've struggled a lot while trying to understand 
 
 #month/day/year
 #feb/10/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
 02/10/2022
 
 # AWS Cognito – An Implementation Guide for your NodeJS Application
@@ -361,6 +364,7 @@ These "ARNs" are URI's that SNS uses to keep track of Platform Applications, End
 
 #month/day/year
 #feb/11/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
 02/11/2022
 
 # Let's Learn GraphQL + Apollo Server and Client
@@ -409,7 +413,8 @@ feb/13/2022 - Sunday
 
 #month/day/year
 #feb/14/2022
-02/14/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
+02/06/2022
 
 end-user
 Apollo Client is a library that provides state management for JavaScript, allowing you to manage local and remote data with GraphQL. It can use it to fetch, store and modify application data while automatically updating the end-user interface.
@@ -427,7 +432,7 @@ To me, the most interesting item to explain is Subscription because working with
 establish
 Let's focus on the infra/api and services folders, which are at the core of the SPA. The Infra/api folder contains the configuration necessary to establish the connection between the SPA and the back-end GraphQL API.
 parent
-Apollo Client also provides a caching feature to avoid unnecessary requests to the same data through the cache property, which is an instance of InMemoryCache. To be able to consume and change the data, the client needs to use ApolloProvider on the parent component, which in our SPA is App.tsx — which makes it possible to use GraphQL operations like mutations, queries, and subscriptions, implemented as services.
+Apollo Client also provides a caching feature to avoid unnecessary requests to the same data through the cache property, which is an instance of InMemoryCache. To be able to consume and change the data, the client needs to use ApolloProvider on the parent component, which in our SPA is App.tsx - which makes it possible to use GraphQL operations like mutations, queries, and subscriptions, implemented as services.
 Altough
 Altough GraphQL is really awesome, it is no silver bullet. Bellow, we have listed some pros and cons of using GraphQL so you can better undestand it's applications and limitations.
 whether
