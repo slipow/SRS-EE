@@ -181,6 +181,59 @@ def sentence_part(line, word):
       break
   return line
 
+
+with open('Culture.txt', 'r', encoding="utf-8") as file:
+
+  letsPractice = False
+  qtt_words = 0
+
+  for line in file:
+
+    # ignore "comments"
+    if line.find('#') != -1:
+      continue
+    # if the line is empty or contains only whitespaces...
+    if not line or str.isspace(line):
+      continue
+
+    if is_date(line):
+      print(line)
+      days = DaysCounter(line)
+      print(days)
+      snowball = 0
+      breaks = BreakLists()
+
+      # check if its time to practice the words of the day of that line
+      for b in breaks:
+        snowball += b
+        if days == snowball:
+          letsPractice = True
+          # show the words date
+          print(line)
+          break
+        else:
+          letsPractice = False
+      continue
+
+      # is_date block finished
+
+    # if the line isn't a 'comment' nor a 
+    # date nor a word, so the line is a 
+    # phrase and may it will be practiced
+    if letsPractice:
+      # if the line isn't a 'comment' or a 
+      # date, so the line is a word or a phrase
+      words_line = line.split()
+      qtt_words = len(words_line)
+      # if is a words, its added to practice
+      if qtt_words == 1:
+        qtt_words += 1
+
+  # for lines block finished
+
+  print(f'Number of words today: {qtt_words}')
+
+# file finished
   
 with open('Culture.txt', 'r', encoding="utf-8") as file:
 
