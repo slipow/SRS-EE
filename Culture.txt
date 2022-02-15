@@ -414,7 +414,7 @@ feb/13/2022 - Sunday
 #month/day/year
 #feb/14/2022
 # NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
-02/06/2022
+02/14/2022
 
 end-user
 Apollo Client is a library that provides state management for JavaScript, allowing you to manage local and remote data with GraphQL. It can use it to fetch, store and modify application data while automatically updating the end-user interface.
@@ -448,5 +448,56 @@ Cache support: You will need to setup your own caching strategy, which means rel
 either
 whether
 Conclusions: A GraphQL operation can either be a query or a mutation: We learned that the query and name keywords for a GraphQL operation are optional, but it's recommended to use both to keep your queries readable and understandable; The best way to determine whether you want to write a query or a mutation is to ask yourself if you're fetching data (query) or modifying the state in the server (mutation).
+either
+To get the most out of the course I do recommend that you have some amount of C sharp and dominant programming knowledge as well as database development knowledge. Either way, I would make the content very beginner friendly and you should have absolutely no problem following along.
+diminishes
+And when we see testability, we mean like with debugging and by extension unit testing the ability to test the units of this all in one architecture, that ability diminishes as the application grows.
 
-###### 18
+###########################################################
+
+#month/day/year
+#feb/15/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
+02/15/2022
+
+layered
+chunks
+Next up, we want to look at layered architecture. Layered architecture is a step above all in one where instead of separating our modules or our chunks of code and files or by folders, we start looking at creating projects and referencing these projects.
+stuff
+taxis
+end
+somewhat
+You have a layer that deals with the UI stuff. You have a layer that deals with the business logic, and you have a layer that taxis the information between the database and the business logic. And then you end up with a layered application. No, it's easier definitely to enforce solid principles and it's easier to maintain a larger core bases.However, this still acts as one application because all of these layers are still somewhat dependent on each other.
+touted
+And finally, we're looking at the oneone architecture, which is largely touted as clean architecture.
+disrupting
+We want to have everything very modular so we can put in a new module without disrupting the rest of the code, because we can take out little modules and we can make changes and test more easily without disrupting existing parts of the application.
+whoever
+It doesn't really care what the client is and rest is what we'll be using, but it doesn't care if it's a mobile client, it doesn't care if it's a Web client or blazer client. And on your client, it's just taxiing data from the database to whoever is listening.
+govern
+All right, so we've looked at the principles that govern clean application architecture, no, let us look at what exactly we mean by clean architecture, because clean architecture doesn't necessarily mean good software.
+instance
+For instance, if you were tasked with developing a leave management system for the H.R. department and you did it and H.R. is happy, then it's good software.
+recipient
+It depends on who is the recipient and at what point.
+goes
+bit
+are
+So let's us just discuss everything that goes into software development and the different types of architecture so that we can fully appreciate when we would need to step up our design considerations a bit more and what the pros and cons of this are.
+scaffold
+Not all in one architecture could easily be when we scaffold a brand new ASP.NET Core application.
+consumed
+At some point during the development of your project, you might have needed to develop a feature that consumed data from an external source. You had no idea, however, about the shape of the data. All you had is a wireframe or a mock of the screen.
+concerns
+Separation of concerns at this point is limited and restricted to just folders.
+smell
+Another thing or code smell that we would want to address is repetition of code.
+retrieve
+If you want, you can go ahead and retrieve them, but I will be going through them anyway.
+
+###########################################################
+
+#month/day/year
+#feb/16/2022
+# NOT CHANGE THE QUOTES, REWRITE THE ENTIRE PHRASE
+02/16/2022

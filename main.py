@@ -197,7 +197,9 @@ with open('Culture.txt', 'r', encoding="utf-8") as file:
       continue
 
     if is_date(line):
+      print(line)
       days = DaysCounter(line)
+      print(days)
       snowball = 0
       breaks = BreakLists()
 
